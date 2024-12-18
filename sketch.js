@@ -27,7 +27,6 @@ function draw() {
       let y = size / 2 + j * size;
       let distFormCenter = dist(x, y, width / 2, height / 2);
       let dfcMod = floor(distFormCenter - t) % randomMod;
-      console.log(dfcMod);
       if (dfcMod == 0) {
         fill(255);
       } else if (dfcMod == 1) {
