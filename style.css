@@ -8,9 +8,6 @@ html, body {
   height: 100vh;
 }
 
-#defaultCanvas0{
-  width: 100vw;
-}
 
 canvas {
   display: block;
