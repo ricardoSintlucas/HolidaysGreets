@@ -12,7 +12,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(800, 800);
+  createCanvas(768, 768);
   cols = width / size;
   rows = height / size;
   randomMod = floor(random(2, randomMod));

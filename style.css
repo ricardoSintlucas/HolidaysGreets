@@ -9,7 +9,7 @@ html, body {
 }
 
 #defaultCanvas0{
-
+  width: 100vw;
 }
 
 canvas {
