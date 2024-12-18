@@ -1,5 +1,5 @@
 let cols, rows;
-let size = 16;
+let size = 12;
 let randomMod = 7;
 let t = 0;
 let speed = 0.05;
